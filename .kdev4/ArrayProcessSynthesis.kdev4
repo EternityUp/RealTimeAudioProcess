@@ -1,0 +1,47 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x02\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00*\x00A\x00r\x00r\x00a\x00y\x00P\x00r\x00o\x00c\x00e\x00s\x00s\x00S\x00y\x00n\x00t\x00h\x00e\x00s\x00i\x00s\x00\x00\x00\x0b\x00\x00\x00\x00\x02\x00\x00\x00*\x00A\x00r\x00r\x00a\x00y\x00P\x00r\x00o\x00c\x00e\x00s\x00s\x00S\x00y\x00n\x00t\x00h\x00e\x00s\x00i\x00s\x00\x00\x00*\x00a\x00r\x00r\x00a\x00y\x00p\x00r\x00o\x00c\x00e\x00s\x00s\x00s\x00y\x00n\x00t\x00h\x00e\x00s\x00i\x00s)
+
+[CMake]
+Build Directory Count=1
+Current Build Directory Index=0
+ProjectRootRelative=./
+
+[CMake][CMake Build Directory 0]
+Build Directory Path=file:///home/xzc/kdevelop_proj/array_processing/ArrayProcessSynthesis/build
+Build Type=
+CMake Binary=file:///usr/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=file:///usr/local
+
+[CustomDefinesAndIncludes][ProjectPath0]
+Defines=\x00\x00\x00\x00
+Includes=\x00\x00\x00\x01\x00\x00\x00\x00
+Path=.
+
+[Defines And Includes][Compiler]
+Name=GCC
+Path=gcc
+Type=GCC
+
+[Launch]
+Launch Configurations=Launch Configuration 0
+
+[Launch][Launch Configuration 0]
+Configured Launch Modes=execute
+Configured Launchers=nativeAppLauncher
+Name=arrayprocesssynthesis
+Type=Native Application
+
+[Launch][Launch Configuration 0][Data]
+Arguments=2  "xmos_record2_chs4.wav"  "xmos_record2_chs4_out.wav"
+Configured from ProjectItem=ArrayProcessSynthesis,arrayprocesssynthesis
+Dependencies=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x00)
+Dependency Action=Nothing
+EnvironmentGroup=
+Executable=file:///home/xzc/kdevelop_proj/array_processing/ArrayProcessSynthesis/
+External Terminal=konsole --noclose --workdir %workdir -e %exe
+Project Target=ArrayProcessSynthesis,arrayprocesssynthesis
+Use External Terminal=false
+Working Directory=file:///home/xzc/kdevelop_proj/array_processing/ArrayProcessSynthesis/build/
+isExecutable=false

@@ -1,0 +1,7 @@
+/home/xzc/kdevelop_proj/array_processing/ArrayProcessSynthesis/build/CMakeFiles/install.dir
+/home/xzc/kdevelop_proj/array_processing/ArrayProcessSynthesis/build/CMakeFiles/list_install_components.dir
+/home/xzc/kdevelop_proj/array_processing/ArrayProcessSynthesis/build/CMakeFiles/rebuild_cache.dir
+/home/xzc/kdevelop_proj/array_processing/ArrayProcessSynthesis/build/CMakeFiles/arrayprocesssynthesis.dir
+/home/xzc/kdevelop_proj/array_processing/ArrayProcessSynthesis/build/CMakeFiles/install/strip.dir
+/home/xzc/kdevelop_proj/array_processing/ArrayProcessSynthesis/build/CMakeFiles/install/local.dir
+/home/xzc/kdevelop_proj/array_processing/ArrayProcessSynthesis/build/CMakeFiles/edit_cache.dir

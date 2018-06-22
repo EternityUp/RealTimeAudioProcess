@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/arrayprocesssynthesis.dir/mic_array_processing.cpp.o CMakeFiles/arrayprocesssynthesis.dir/main.cpp.o  -o arrayprocesssynthesis 
